@@ -1,6 +1,6 @@
 ## AWS VPC with Single Subnet and EC2 Deployment using Terraform
 
-
+ 
 ## Key Points:
 
 Single VPC Creation: The project sets up a Virtual Private Cloud (VPC) with a custom CIDR block (10.0.0.0/16), providing a private network range for your EC2 instances.
